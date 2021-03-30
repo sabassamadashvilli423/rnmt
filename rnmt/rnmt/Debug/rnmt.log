@@ -1,0 +1,5 @@
+﻿  rnmt.cpp
+C:\Users\Zauri\Desktop\rnmt\rnmt\rnmt.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\Desktop\rnmt\rnmt\rnmt.cpp(7,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\Desktop\rnmt\rnmt\rnmt.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  rnmt.vcxproj -> C:\Users\Zauri\Desktop\rnmt\Debug\rnmt.exe
